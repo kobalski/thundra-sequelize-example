@@ -21,7 +21,7 @@ Edit `index.js` with your MySQL database credentials
     
 #### 3 - Deploy
 
-In `thundra-examples-lambda-nodejs/hello-thundra` directory:
+In `root directory`:
 
 ```bash
 sls deploy
