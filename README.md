@@ -15,6 +15,7 @@ Open `serverless.yml` and set your AWS S3 deployment bucket & api key:
 custom:
     thundraApiKey: <your-api-key>
     deploymentBucket: <your-s3-deployment-bucket>
+```    
     
 Edit `index.js` with your MySQL database credentials
     
